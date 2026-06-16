@@ -1,1 +1,1 @@
-﻿# Projeto "Análise de Público do Brasileirão em 2017"
+﻿# Análise Exploratória de Dados do Brasileirão 2017 utilizando Python e Pandas
